@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil!
 
-Meu nome é Caio, sou um desenvolvedor front-end em busca da primeira oportunidade na área, amante de mangás e animais
+Meu nome é Caio, sou um desenvolvedor front-end em busca da primeira oportunidade na área, amante de mangás e animais!
 
 <picture>
 <source 
